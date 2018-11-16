@@ -1,2 +1,2 @@
-# Desarrollo-de-Aplicaciones-con-Tecnologias-de-Plataforma-.NET
+# Desarrollo de Aplicaciones conTecnologías de Plataforma .NET
 Diplomado
